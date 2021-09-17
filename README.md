@@ -1,5 +1,6 @@
 # Data Analyst Portfolio
-Portofolio ini berisi proyek-proyek data analyst yang pernah saya selesaikan untuk keperluan akademis, mengasah skill, dan hobi. Proyek-proyek ini disajikan dalam bentuk file Jupyter Notebook.
+Portofolio ini berisi proyek-proyek data analyst yang pernah saya selesaikan untuk keperluan akademis, mengasah skill, dan hobi. 
+Proyek-proyek ini disajikan dalam bentuk file Jupyter Notebook.
 
 
 _Note: Data yang digunakan pada proyek merupakan data yang berasal dari website seperti [Kaggle](http://kaggle.com), dan sebagainya._
