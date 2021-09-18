@@ -13,7 +13,7 @@ _Note: Data yang digunakan pada proyek merupakan data yang berasal dari website 
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_ 
 
-- ### Data Analysis and Visualisation
+- ### Data Analysis and Visualization
 	- __Python__
 		- [Analisis Olympic 2020](https://github.com/ikanovrianti/Data-Analyst-Portfolio/tree/main/Olympics%202020): Melakukan analisis pda data olympic 2020.
 		- [Data Analyst](https://github.com/ikanovrianti/Data-Analyst-Portfolio/blob/main/DA/DA.ipynb): Melakukan analisis pada data mengenai bidang Data Analyst.
