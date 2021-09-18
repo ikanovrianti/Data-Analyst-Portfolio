@@ -16,8 +16,9 @@ _Note: Data yang digunakan pada proyek merupakan data yang berasal dari website 
 - ### Data Analysis and Visualisation
 	- __Python__
 		- [Analisis Olympic 2020](https://github.com/ikanovrianti/Data-Analyst-Portfolio/tree/main/Olympics%202020): Melakukan analisis pda data olympic 2020.
+		- [Data Analyst](https://github.com/ikanovrianti/Data-Analyst-Portfolio/blob/main/DA/DA.ipynb): Melakukan analisis pada data mengenai bidang Data Analyst.
 		
-	_Tools: Pandas, Folium, Seaborn and Matplotlib_
+	_Tools: Pandas, Numpy, Pandasql, Seaborn and Matplotlib_
 
 Jika anda ingin mengetahui tentang proyek-proyek yang saya kerjakan lebih lanjut, hubungi saya melalui email : ika.novvrianti@gmail.com. 
    
