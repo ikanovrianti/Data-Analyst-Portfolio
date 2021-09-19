@@ -9,9 +9,9 @@ _Note: Data yang digunakan pada proyek merupakan data yang berasal dari website 
 
 - ### Machine Learning | Sentiment Analysis 
 
-	- [Analisis Sentimen Komentar Instagram Idol Group BTS](https://github.com/ikanovrianti) : Model dibuat untuk melakukan analisis pada komentar instagram mengenai BTS.
+	- [Analisis Sentimen Komentar Instagram Idol Group BTS](https://github.com/ikanovrianti/Sentiment-Analysis-BTS) : Model dibuat untuk melakukan analisis pada komentar instagram mengenai BTS.
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_ 
+	_Tools: csv, flask, re, nltk, Sastrawi, sklearn, pickle, Pandas, Seaborn, Matplotlib_ 
 
 - ### Data Analysis and Visualization
 	- __Python__
@@ -20,5 +20,5 @@ _Note: Data yang digunakan pada proyek merupakan data yang berasal dari website 
 		
 	_Tools: Pandas, Numpy, Pandasql, Seaborn and Matplotlib_
 
-Jika anda ingin mengetahui tentang proyek-proyek yang saya kerjakan lebih lanjut, hubungi saya melalui email : ika.novvrianti@gmail.com. 
+Hubungi saya melalui email : ika.novvrianti@gmail.com. 
    
