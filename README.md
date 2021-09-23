@@ -17,7 +17,8 @@ _Note: Data yang digunakan pada proyek merupakan data yang berasal dari website 
 	- __Python__
 		- [Analisis Olympic 2020](https://github.com/ikanovrianti/Data-Analyst-Portfolio/tree/main/Olympics%202020): Melakukan analisis pda data olympic 2020.
 		- [Data Analyst](https://github.com/ikanovrianti/Data-Analyst-Portfolio/blob/main/DA/DA.ipynb): Melakukan analisis pada data mengenai bidang Data Analyst.
-		
+		- [Data Analyst to Help Manager HR](https://github.com/ikanovrianti/Data-Analyst-Portfolio/tree/main/Data%20Analyst%20to%20Help%20Manager%20HR): Melakukan analisis 		      untuk mendapatkan insight maupun informasi berdasarkan data yang tersedia, guna untuk membantu Manager HR dalam merekrut talent baru.
+		- 
 	_Tools: Pandas, Numpy, Pandasql, Seaborn and Matplotlib_
 
 Hubungi saya melalui email : ika.novvrianti@gmail.com. 
