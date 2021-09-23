@@ -1,0 +1,288 @@
+Employee_Name,EmpID,MarriedID,MaritalStatusID,GenderID,EmpStatusID,RoleID,LevelID,PerfScoreID,Tribe,Squad,DOB,RaceDesc,DateofHire,DateofTermination,TermReason,EmploymentStatus,RecruitmentSource,EngagementSurvey,EngangementSurveyRound,EmpSatisfaction,SpecialProjectsCount,LastPerformanceReview_Date,DaysLateLast30,Absences
+A Ridwan,10001,Not married,Single,M,TKP/ Outsource,Product Owner,Senior,Exceed,EWD,Evaluate,30596,Sunda,40729,,N/A-StillEmployed,Active,LinkedIn,4.6,5,5,0,43847,0,1
+Ade Setyanto,10002,Not married,Single,M,TKP/ Outsource,Product Owner,Senior,Fully meets,EWD,Pay,27519,Sunda,42093,43267,career change,Voluntarily Terminated,Indeed,4.96,5,3,6,42790,0,17
+Adhitya Bramantya Ranggatyasta,10003,Married,Divorced,F,TKP/ Outsource,Product Owner,Senior,Average,ENT,HunianAja,09/19/88,Jawa,40729,41906,hours,Voluntarily Terminated,LinkedIn,3.02,3,3,0,41409,0,3
+Adji Wijaya Kusuma,10004,Not married,Single,F,TKP/ Outsource,Business Analyst,Middle,Exceed,ENT,Intermoda,09/27/88,Cina,39454,,N/A-StillEmployed,Active,Indeed,4.84,5,5,0,43833,0,15
+Agus Andri Putra,10005,Not married,Single,F,Prohire,Business Analyst,Middle,Average,EDU,Squad Pijar Sekolah,32729,Bali,40735,43349,return to school,Voluntarily Terminated,Google Search,5,5,4,0,42767,0,2
+Ahmad Dwi Nugroho,10006,Married,Married,F,TKP/ Outsource,Product Owner,Senior,Exceed,COM,ChatAja,05/22/77,Bali,40917,,N/A-StillEmployed,Active,LinkedIn,5,5,5,0,43837,0,15
+Ahmad Faiz,10007,Married,Married,F,TKP/ Outsource,Business Analyst,Junior,Average,COM,Vutura,05/24/79,Padang,41953,,N/A-StillEmployed,Active,LinkedIn,3.04,3,3,4,43832,0,19
+Ahmad Hari Ramadhan,10008,Married,Divorced,M,TKP/ Outsource,Business Analyst,Junior,Exceed,ENT,Intermoda,02/18/83,Jawa,41547,,N/A-StillEmployed,Active,Employee Referral,5,5,4,0,43886,0,19
+Ahmad Iswandi,10009,Not married,Single,F,TKP/ Outsource,Business Analyst,Middle,Exceed,EWD,Sales Cycle  ,25874,Sunda,40000,,N/A-StillEmployed,Active,Diversity Job Fair,4.46,4,3,0,43855,0,4
+Ahmad Khaerul,10010,Married,Widowed,M,TKP/ Outsource,Product Owner,Middle,Need improvement,EWD,Activate & Install,32325,Cina,42009,,N/A-StillEmployed,Active,Indeed,5,5,5,6,43879,0,16
+Ahmad Luthfi Mahar,10011,Married,Divorced,F,TKP/ Outsource,Product Owner,Junior,Fully meets,COM,ChatAja,27364,Jawa,40553,43477,Another position,Voluntarily Terminated,Diversity Job Fair,4.2,4,4,0,42765,0,12
+Akhdiyat Restu Fiqih,10012,Married,Divorced,M,TKP/ Outsource,Product Owner,Junior,Fully meets,COM,UMEETME,02/21/74,Bali,41001,43362,unhappy,Voluntarily Terminated,Diversity Job Fair,4.2,4,3,0,42861,0,15
+Alifia Sarah Mardiani,10013,Not married,Single,M,TKP/ Outsource,Business Analyst,Middle,Need improvement,EWD,Core Domain,32240,Bali,41953,,N/A-StillEmployed,Active,Diversity Job Fair,4.28,4,4,5,43886,0,9
+Alwi Khairan Akhmad,10014,Not married,Single,M,TKP/ Outsource,Product Owner,Junior,Fully meets,EWD,Evaluate,07/20/83,Sunda,40959,,N/A-StillEmployed,Active,Google Search,4.6,5,4,0,43875,0,7
+Amalia Erza Syafitri,10015,Married,Married,M,TKP/ Outsource,UI Designer,Junior,Special treatment,EWD,Pay,07/15/77,Cina,41176,43561,Another position,Voluntarily Terminated,On-line Web application,5,5,5,0,43161,0,1
+Amalia Nurul Hidayah,10016,Not married,Single,M,TKP/ Outsource,UX Designer,Junior,Fully meets,EWD,Sales Cycle,10/18/81,Bali,40595,43681,attendance,Terminated for Cause,Google Search,5,5,4,0,43195,0,20
+Andi Yayang Friandi,10017,Not married,Single,F,TKP/ Outsource,UI Designer,Senior,Fully meets,HLT,PeduliLindungi,04/17/66,Jawa,42572,,N/A-StillEmployed,Active,Employee Referral,4.4,4,3,0,43844,0,16
+Andika Junisar Putri,10018,Married,Divorced,F,Prohire,UX Designer,Junior,Exceed,COM,OCA,10/27/70,Cina,40637,,N/A-StillEmployed,Active,Google Search,5,5,5,0,43844,0,12
+Andre,10019,Not married,Single,F,Prohire,UI Designer,Junior,Fully meets,EDU,Squad Pijar Sekolah,31506,Padang,41827,42990,performance,Terminated for Cause,Google Search,4.5,5,4,5,42384,0,8
+Andri Istiawan,10020,Not married,Single,M,Prohire,UI Designer,Junior,Special treatment,EWD,Core Domain,29010,Jawa,41463,,N/A-StillEmployed,Active,LinkedIn,4.2,4,4,0,43841,0,13
+Andry Purnawati,10021,Not married,Single,M,TKP/ Outsource,UX Designer,Junior,Average,EWD,Sales Cycle  ,12/22/70,Sunda,41001,,N/A-StillEmployed,Active,Google Search,5,5,3,0,43844,0,13
+Anita Dwi Kusrini,10022,Married,Married,F,TKP/ Outsource,UI Designer,Junior,Special treatment,FIN,Inpoin,12/27/58,Cina,41505,,N/A-StillEmployed,Active,Indeed,4.2,4,3,0,43840,0,2
+Anjas Syarifudin Maharesi,10023,Married,Divorced,F,Prohire,UX Writer,Senior,Fully meets,FIN,MPS,32517,Jawa,41827,,N/A-StillEmployed,Active,Indeed,5,5,3,0,43888,0,19
+Anne Lestari,10024,Married,Divorced,F,Prohire,UX Designer,Junior,Fully meets,EDU,Arkademy ,09/21/90,Padang,40637,,N/A-StillEmployed,Active,CareerBuilder,2,2,3,0,43888,2,3
+Anshory Muhammad,10025,Married,Widowed,F,Prohire,UX Writer,Junior,Special treatment,ENT,MyPertamina,01/16/67,Padang,40553,42464,career change,Voluntarily Terminated,Google Search,4.8,5,5,0,42067,0,5
+Arief Luthfi,10026,Not married,Single,M,TKP/ Outsource,Artificial Intelligent,Junior,Exceed,IHX,Squad B,07/30/64,Cina,41687,43150,Learned that he is a gangster,Terminated for Cause,LinkedIn,3.5,4,5,7,42745,0,2
+Arini Indah,10027,Married,Widowed,F,TKP/ Outsource,UI Designer,Junior,Average,EDU,Squad Service Core,31871,Sunda,42051,,N/A-StillEmployed,Active,Diversity Job Fair,5,5,4,3,43879,0,4
+Arisalsabila Wahyu Bawono,10028,Not married,Single,M,TKP/ Outsource,Back End Developer,Senior,Average,FIN,Bonum,25844,Padang,41547,42589,retiring,Voluntarily Terminated,Indeed,3.39,3,3,0,42055,0,14
+Arsya Shafira Firstri,10029,Married,Divorced,F,TKP/ Outsource,Back End Developer,Middle,Exceed,ENT,MyPertamina,08/24/90,Padang,41001,42170,Another position,Voluntarily Terminated,Google Search,3.35,3,4,0,41702,0,6
+Arwani,10030,Not married,Single,F,TKP/ Outsource,Front End Developer,Junior,Exceed,EDU,Squad Service Core,11/24/87,Bali,39748,,N/A-StillEmployed,Active,Diversity Job Fair,4.5,5,2,6,43845,0,14
+Asep Yuhana,10031,Not married,Single,M,TKP/ Outsource,Front End Developer,Middle,Exceed,FIN,Bonum,07/28/83,Padang,41911,,N/A-StillEmployed,Active,Google Search,3.19,3,3,0,43862,0,9
+Asfah Faela Shufa,10032,Married,Married,F,TKP/ Outsource,Front End Developer,Senior,Average,EWD,Sales Cycle,10/30/69,Cina,41589,,N/A-StillEmployed,Active,Diversity Job Fair,3.5,4,5,0,43851,0,17
+Astria Karismawati,10033,Not married,Single,F,TKP/ Outsource,Front End Developer,Middle,Fully meets,EWD,RPA & Profitability,23382,Cina,40770,42584,Another position,Voluntarily Terminated,Google Search,3.14,3,5,0,41680,1,19
+Astrid Noviasari Suprapto,10034,Married,Divorced,F,TKP/ Outsource,Back End Developer,Senior,Fully meets,IHX,Squad C,29254,Bali,40973,,N/A-StillEmployed,Active,Employee Referral,4.51,5,4,0,43882,0,3
+Aulia Eka Fitriani,10035,Married,Married,M,TKP/ Outsource,Mobile Developer Android,Junior,Fully meets,ENT,MyPertamina,08/19/77,Sunda,40637,,N/A-StillEmployed,Active,Indeed,3.25,3,5,0,43844,0,15
+Aura Camellia Ludica,10036,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Need improvement,FIN,Platform,11/22/66,Cina,40770,,N/A-StillEmployed,Active,Google Search,3.84,4,3,5,43851,0,4
+Aviall Anggraina,10037,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Fully meets,HLT,PeduliLindungi,30567,Jawa,42397,,N/A-StillEmployed,Active,Indeed,5,5,3,0,43883,0,14
+Ayu Bintang Nurrachma Gunawan,10038,Not married,Single,F,TKP/ Outsource,Back End Developer,Middle,Need improvement,HLT,PeduliLindungi,31901,Padang,41589,,N/A-StillEmployed,Active,Indeed,4.96,5,4,6,43860,0,3
+Ayu Prihatini Novianingrum Romadani,10039,Married,Divorced,M,Prohire,Front End Developer,Junior,Fully meets,IHX,Lead/Reviewer/Maintener,30349,Bali,41729,,N/A-StillEmployed,Active,LinkedIn,4.43,4,3,0,43862,0,14
+Bagus,10040,Not married,Single,F,Prohire,Back End Developer,Junior,Fully meets,IHX,Squad B,31569,Sunda,42551,,N/A-StillEmployed,Active,LinkedIn,5,5,5,6,43879,0,7
+Bagus Indra Febrianto,10041,Not married,Single,F,Prohire,Mobile Developer Android,Junior,Special treatment,IHX,Squad D,05/15/63,Padang,41869,,N/A-StillEmployed,Active,Indeed,5,5,5,0,43851,0,7
+Bagus Tri Harjanto,10042,Married,Married,F,TKP/ Outsource,Back End Developer,Middle,Fully meets,EWD,Explore,18660,Bali,41911,,N/A-StillEmployed,Active,Google Search,5,5,4,0,43873,0,11
+Bayu Aji Kurniawan,10043,Married,Married,M,TKP/ Outsource,Back End Developer,Junior,Average,FIN,Inpoin,26544,Cina,42619,,N/A-StillEmployed,Active,Indeed,4.5,5,5,7,43845,0,8
+Bayu Anugrah,10044,Married,Divorced,F,TKP/ Outsource,Back End Developer,Junior,Average,EWD,AM Performance,29191,Bali,41771,,N/A-StillEmployed,Active,Indeed,3.3,3,4,0,43880,0,11
+Bayusandya Tresnayatna,10045,Not married,Single,M,TKP/ Outsource,Back End Developer,Senior,Need improvement,ENT,MyPertamina,08/24/83,Padang,41463,,N/A-StillEmployed,Active,LinkedIn,3.8,4,5,0,43844,0,4
+Brilliant Djaka Irfanudin Rofiq,10046,Not married,Single,M,TKP/ Outsource,Front End Developer,Middle,Exceed,FIN,Inpoin,25878,Bali,41043,,N/A-StillEmployed,Active,Employee Referral,3,3,5,0,43849,0,17
+Burhanudin Ramdhani,10047,Married,Married,F,TKP/ Outsource,Back End Developer,Junior,Average,FIN,Bonum,08/27/83,Jawa,40721,43054,relocation out of area,Voluntarily Terminated,Indeed,4.3,4,4,0,42439,0,3
+Calvinza Herman,10048,Not married,Single,F,Prohire,Back End Developer,Junior,Average,LGT,Logee Truck Web,05/31/88,Sunda,40819,,N/A-StillEmployed,Active,Indeed,3.58,4,5,0,43860,0,3
+Chika Mareyza Anjani,10049,Married,Married,M,TKP/ Outsource,Front End Developer,Junior,Fully meets,EDU,Squad Control Tower,31176,Padang,41157,,N/A-StillEmployed,Active,Indeed,4.7,5,3,6,43888,0,2
+Christi Yanti Pardede,10050,Not married,Single,F,TKP/ Outsource,Front End Developer,Junior,Fully meets,EDU,Squad Pijar Corpu,08/31/81,Bali,40679,42011,unhappy,Voluntarily Terminated,Google Search,4.2,4,5,0,41397,0,9
+Christian S. X. Kembuan,10051,Married,Divorced,M,TKP/ Outsource,Back End Developer,Senior,Average,COM,ChatAja,11/25/78,Sunda,40420,41543,career change,Voluntarily Terminated,Indeed,4.2,4,4,0,41033,0,6
+Cipta Pakarti Puji Akasyah,10052,Married,Divorced,M,TKP/ Outsource,Mobile Developer Android,Senior,Special treatment,FIN,MPS,08/26/80,Bali,42557,,N/A-StillEmployed,Active,Employee Referral,4.1,4,4,0,43889,0,5
+Claudia Cahya P,10053,Married,Widowed,M,TKP/ Outsource,System Documentation,Junior,Need improvement,LGT,Logee Truck All Product,28346,Padang,41463,,N/A-StillEmployed,Active,Employee Referral,4.4,4,5,0,43844,0,3
+Darin Afaf Rafinda,10054,Not married,Single,M,TKP/ Outsource,Front End Developer,Junior,Fully meets,VGA,Ads Based,29197,Jawa,40735,43366,performance,Terminated for Cause,LinkedIn,2,2,3,0,42856,5,16
+David Suryana Adie,10055,Not married,Single,M,TKP/ Outsource,Front End Developer,Middle,Need improvement,VGA,IndiBOX Apps,12/17/75,Sunda,40379,,N/A-StillEmployed,Active,CareerBuilder,4.13,4,2,0,43844,3,3
+Debby Safira,10056,Not married,Single,M,TKP/ Outsource,Front End Developer,Junior,Exceed,IHL,IndiHome Smart,03/19/83,Jawa,39818,,N/A-StillEmployed,Active,Indeed,3.7,4,5,0,43865,0,15
+Deddy Nur Hidayat,10057,Married,Married,F,TKP/ Outsource,Front End Developer,Senior,Fully meets,IHL,IndiHome Study,03/31/77,Jawa,42009,,N/A-StillEmployed,Active,Indeed,4.73,5,5,0,43875,0,6
+Delicia Generis Humani,10058,Married,Married,M,TKP/ Outsource,Front End Developer,Junior,Exceed,FIN,Platform,08/26/86,Cina,42093,,N/A-StillEmployed,Active,Indeed,3.04,3,3,6,43852,0,2
+Denandra Prasetya Laksma Putra,10059,Married,Married,F,TKP/ Outsource,Front End Developer,Senior,Average,FIN,Platform,32054,Bali,42557,,N/A-StillEmployed,Active,LinkedIn,4.12,4,5,0,43858,0,15
+Dendy Ramdhan Fauzy,10060,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Need improvement,IHX,Squad B,23994,Padang,41953,,N/A-StillEmployed,Active,Employee Referral,5,5,3,4,43832,0,5
+Devi,10061,Not married,Single,F,TKP/ Outsource,Back End Developer,Senior,Exceed,IHX,Squad C,04/19/90,Bali,41764,,N/A-StillEmployed,Active,Indeed,4.62,5,4,0,43854,0,8
+Dewi Hapsari,10062,Married,Divorced,F,TKP/ Outsource,Front End Developer,Senior,Exceed,EWD,Refactoring New IA,01/18/52,Cina,41953,,N/A-StillEmployed,Active,LinkedIn,3.1,3,5,8,43873,0,19
+Dewi Rahayu,10063,Married,Widowed,F,Prohire,Mobile Developer Android,Senior,Need improvement,VGA,Ads Based,28621,Sunda,41092,,N/A-StillEmployed,Active,Indeed,5,5,3,0,43886,0,1
+Dhieo Deva Alavanta,10064,Married,Widowed,M,TKP/ Outsource,Mobile Developer Android,Junior,Special treatment,VGA,IndiBOX Apps,09/14/79,Cina,40854,,N/A-StillEmployed,Active,LinkedIn,3.96,4,4,0,43888,0,6
+Dian Putri Paramitha Rais,10065,Married,Married,M,TKP/ Outsource,Back End Developer,Junior,Exceed,ENT,MyPertamina,04/15/88,Bali,43290,,N/A-StillEmployed,Active,Indeed,4.3,4,4,3,43861,2,2
+Difa Al,10066,Married,Married,M,TKP/ Outsource,Mobile Developer Android,Junior,Need improvement,EDU,Squad Service Core,10/31/77,Cina,40679,43259,unhappy,Voluntarily Terminated,Indeed,5,5,4,0,42827,0,14
+Dimas Bayu Suseno,10067,Not married,Single,F,TKP/ Outsource,Mobile Developer Android,Junior,Fully meets,COM,ChatAja,28982,Jawa,40917,,N/A-StillEmployed,Active,CareerBuilder,3.79,4,5,5,43855,0,8
+Dimas Pratama,10068,Not married,Single,M,TKP/ Outsource,Mobile Developer iOS,Middle,Fully meets,COM,ChatAja,27436,Sunda,41911,,N/A-StillEmployed,Active,Indeed,1.93,2,3,0,43860,6,5
+Dini Agustini Fajri,10069,Married,Married,F,TKP/ Outsource,Back End Developer,Middle,Exceed,VGA,Ads Based,02/25/51,Sunda,40637,43043,more money,Voluntarily Terminated,Google Search,4.62,5,5,0,42496,0,1
+Dwi Erviana,10070,Married,Widowed,M,TKP/ Outsource,Back End Developer,Junior,Average,IHL,IndiHome Smart,04/19/67,Bali,41827,,N/A-StillEmployed,Active,Indeed,1.12,1,2,0,43861,4,9
+Dyva Agna Fauzan,10071,Married,Divorced,M,TKP/ Outsource,Front End Developer,Junior,Exceed,EDU,Squad Pijar Corpu,30415,Cina,42781,,N/A-StillEmployed,Active,Indeed,3.01,3,5,7,43853,0,15
+Egi Chandra Legita,10072,Married,Divorced,M,TKP/ Outsource,Back End Developer,Junior,Average,EWD,Delivery & Project Mgt,11/15/82,Cina,41771,,N/A-StillEmployed,Active,Indeed,4.3,4,4,0,43880,0,1
+Egy Haekal Achmad,10073,Married,Widowed,F,TKP/ Outsource,Front End Developer,Middle,Special treatment,ENT,NETMONK,05/14/87,Cina,40959,,N/A-StillEmployed,Active,Website,2.3,2,1,0,43859,2,17
+Eka Risyana Pribadi,10074,Married,Widowed,F,TKP/ Outsource,Front End Developer,Middle,Average,EWD,Evaluate,28533,Bali,41281,,N/A-StillEmployed,Active,Indeed,3.88,4,4,0,43848,0,6
+Eki Mandjasari,10075,Married,Divorced,F,TKP/ Outsource,Back End Developer,Junior,Average,EWD,Pay,31603,Jawa,41001,,N/A-StillEmployed,Active,CareerBuilder,3.4,3,5,0,43880,0,15
+Eki Rizki Pratama Putra,10076,Married,Divorced,F,TKP/ Outsource,DevOps Engineer,Junior,Special treatment,EWD,Payment - SSOF,07/18/88,Jawa,42009,,N/A-StillEmployed,Active,Employee Referral,4.11,4,4,6,43886,0,16
+Enny,10077,Not married,Single,M,TKP/ Outsource,Front End Developer,Middle,Average,EDU,Squad Pijar Corpu,25818,Bali,41644,,N/A-StillEmployed,Active,Indeed,4.3,4,5,5,43834,0,4
+Erdin Suharyadi,10078,Not married,Single,F,TKP/ Outsource,Back End Developer,Senior,Average,EDU,Squad Pijar Sekolah,32366,Padang,40553,,N/A-StillEmployed,Active,Indeed,4.77,5,5,0,43857,0,14
+Ester Vanessa,10079,Not married,Single,F,TKP/ Outsource,Back End Developer,Senior,Fully meets,COM,UMEETME,11/28/73,Cina,41900,,N/A-StillEmployed,Active,Google Search,4.52,5,4,0,43845,0,4
+Estha Triani Juansah,10080,Married,Widowed,F,TKP/ Outsource,System Documentation,Junior,Exceed,COM,ChatAja,09/23/73,Bali,40294,,N/A-StillEmployed,Active,Google Search,2.9,3,3,0,43851,0,6
+Evi Sitorus,10081,Married,Widowed,F,TKP/ Outsource,Front End Developer,Junior,Average,EWD,Product & Content Management System,33367,Cina,40637,43622,military,Voluntarily Terminated,Google Search,5,5,3,0,43199,0,7
+Fadilla Nur Elminasari,10082,Not married,Single,M,TKP/ Outsource,Back End Developer,Middle,Special treatment,ENT,MyPertamina,05/31/74,Jawa,41953,,N/A-StillEmployed,Active,LinkedIn,4.7,5,5,0,43874,0,8
+Fahmi Alhafid,10083,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Average,COM,UMEETME,08/25/78,Sunda,41729,,N/A-StillEmployed,Active,Employee Referral,4.2,4,3,0,43841,0,3
+Fairuzh Shalma N,10084,Not married,Single,F,TKP/ Outsource,Back End Developer,Junior,Average,COM,Vutura,08/25/89,Cina,41827,,N/A-StillEmployed,Active,Indeed,3,3,1,0,43886,2,5
+Faisal Fahlevi,10085,Not married,Single,M,Prohire,Front End Developer,Senior,Need improvement,IHX,Squad D,30356,Padang,41001,44101,attendance,Terminated for Cause,Google Search,5,5,4,0,43567,5,16
+Faishal Mahdy Nail,10086,Not married,Single,F,Prohire,Back End Developer,Senior,Average,COM,Vutura,32664,Jawa,41687,43886,"no-call, no-show",Terminated for Cause,Google Search,2.3,2,3,0,43115,5,19
+Fajar Lesmana,10087,Married,Married,F,TKP/ Outsource,Back End Developer,Junior,Average,VGA,IndiBOX Apps,05/15/87,Bali,40665,42160,attendance,Terminated for Cause,Indeed,2.1,2,5,4,41496,4,19
+Fakhri Ridho Dhiyamatra,10088,Married,Divorced,F,TKP/ Outsource,Front End Developer,Junior,Fully meets,EDU,Squad Service Core,09/22/78,Cina,41827,,N/A-StillEmployed,Active,LinkedIn,4.4,4,5,0,43883,0,17
+Fany Amalia,10089,Not married,Single,F,TKP/ Outsource,Front End Developer,Senior,Need improvement,COM,Vutura,09/27/87,Cina,41687,,N/A-StillEmployed,Active,LinkedIn,4,4,4,0,43837,0,7
+Faraz Ayudia A,10090,Not married,Single,F,TKP/ Outsource,Back End Developer,Middle,Exceed,EWD,RPA & Profitability,04/14/55,Jawa,40854,43237,military,Voluntarily Terminated,Google Search,3.13,3,3,0,42770,0,16
+Fauza Alfisyahrin,10091,Not married,Single,M,TKP/ Outsource,Mobile Developer Android,Middle,Need improvement,IHX,Squad B,10/18/89,Jawa,42135,,N/A-StillEmployed,Active,Indeed,1.56,2,5,0,43833,6,15
+Fauzan Indra,10092,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Exceed,IHX,Squad D,06/18/87,Padang,42093,,N/A-StillEmployed,Active,LinkedIn,1.2,1,3,6,43865,3,2
+Fauzi Radian Hantoro,10093,Married,Widowed,F,TKP/ Outsource,Mobile Developer Android,Junior,Average,EWD,Data & Dashboard Analytics,03/16/81,Padang,40917,,N/A-StillEmployed,Active,Google Search,5,5,5,0,43859,0,19
+Fauzi Zaki Ma'ruf,10094,Not married,Single,M,TKP/ Outsource,Mobile Developer Android,Middle,Fully meets,EWD,Explore,29596,Sunda,40679,42179,hours,Voluntarily Terminated,Google Search,4.76,5,5,0,41734,0,20
+Febby Wijaya,10095,Married,Married,F,TKP/ Outsource,Back End Developer,Junior,Need improvement,ENT,NETMONK,30539,Padang,40637,42013,career change,Voluntarily Terminated,Google Search,3.66,4,3,0,41281,0,6
+Ferli,10096,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Average,EWD,RPA & Profitability,27582,Sunda,41911,44062,Fatal attraction,Terminated for Cause,Employee Referral,2,2,5,0,43858,4,7
+Fikri Akbar,10097,Married,Divorced,M,TKP/ Outsource,Back End Developer,Junior,Average,EWD,Explore,29348,Sunda,40648,,N/A-StillEmployed,Active,Indeed,5,5,5,5,43837,0,15
+Fikri Auliya Rahman,10098,Married,Married,F,TKP/ Outsource,Front End Developer,Senior,Fully meets,COM,ChatAja,04/16/79,Padang,39818,,N/A-StillEmployed,Active,Other,5,5,3,2,43869,0,3
+Fransky,10099,Not married,Single,M,TKP/ Outsource,System Documentation,Junior,Average,FIN,MPS,08/28/63,Cina,40792,,N/A-StillEmployed,Active,CareerBuilder,4.3,4,3,0,43857,2,7
+Freza Nugraha,10100,Not married,Single,F,Prohire,System Documentation,Junior,Exceed,FIN,Inpoin,24996,Padang,40299,,N/A-StillEmployed,Active,LinkedIn,4.7,5,4,5,43862,0,1
+Gabe Rizky Putra,10101,Married,Divorced,M,Prohire,Back End Developer,Middle,Need improvement,COM,ChatAja,09/15/85,Bali,42093,,N/A-StillEmployed,Active,Employee Referral,4.5,5,3,0,43879,0,5
+Gana,10102,Married,Married,F,Prohire,Back End Developer,Junior,Fully meets,ENT,Intermoda,30359,Cina,40679,,N/A-StillEmployed,Active,LinkedIn,4.2,4,4,0,43887,0,12
+Gema Saputera,10103,Not married,Single,F,Prohire,Back End Developer,Junior,Fully meets,COM,ChatAja,32883,Jawa,42093,,N/A-StillEmployed,Active,LinkedIn,3.73,4,3,0,43846,0,19
+Gerald Ghibran Gunasha,10104,Not married,Single,F,TKP/ Outsource,Back End Developer,Senior,Special treatment,FIN,GTM,05/15/70,Jawa,40854,43419,hours,Voluntarily Terminated,Diversity Job Fair,4.24,4,4,0,42854,0,2
+Geraldy Martin Pangabean,10105,Not married,Single,F,TKP/ Outsource,Back End Developer,Junior,Fully meets,EWD,Active & Install,26213,Sunda,41827,42983,attendance,Terminated for Cause,CareerBuilder,3.97,4,4,0,42019,0,7
+Gilang Ramadhan,10106,Married,Widowed,M,TKP/ Outsource,Front End Developer,Junior,Fully meets,EWD,Evaluate,27280,Cina,41001,42911,military,Voluntarily Terminated,Diversity Job Fair,3.97,4,4,0,42389,3,15
+Gilbi,10107,Married,Widowed,F,Prohire,Back End Developer,Junior,Special treatment,EWD,Explore,29438,Bali,41911,,N/A-StillEmployed,Active,Indeed,3.9,4,4,0,43868,0,3
+Giska Adilah Sharfina Saputra,10108,Married,Widowed,F,TKP/ Outsource,Front End Developer,Junior,Fully meets,EWD,Get Support & Terminated,09/22/89,Padang,42051,,N/A-StillEmployed,Active,Indeed,4.5,5,5,0,43855,0,20
+Gusti Zainokta,10109,Married,Married,F,TKP/ Outsource,Back End Developer,Junior,Average,EWD,Pay,10/23/71,Cina,42051,42809,"no-call, no-show",Terminated for Cause,Indeed,4.6,5,4,4,42389,0,10
+Hadi,10110,Not married,Single,M,TKP/ Outsource,Mobile Developer iOS,Junior,Fully meets,ENT,HunianAja,11/24/89,Jawa,42093,,N/A-StillEmployed,Active,LinkedIn,4.3,4,5,7,43840,0,20
+Hadi Purnomo,10111,Married,Widowed,F,Prohire,Back End Developer,Junior,Average,ENT,Intermoda,06/18/92,Sunda,41589,,N/A-StillEmployed,Active,Indeed,4.3,4,5,0,43879,0,7
+Hakim Rizki Pratama,10112,Not married,Single,M,TKP/ Outsource,Back End Developer,Senior,Average,FIN,Inpoin,09/29/69,Padang,40735,,N/A-StillEmployed,Active,Diversity Job Fair,4.5,5,4,0,43879,0,1
+Halah Helmia Wahdah,10113,Married,Married,M,TKP/ Outsource,Back End Developer,Junior,Average,EWD,Data & Dashboard Analytics,23721,Bali,40294,41424,career change,Voluntarily Terminated,Diversity Job Fair,3,3,3,0,40974,3,10
+Hammad Bhat,10114,Not married,Single,F,Prohire,Back End Developer,Senior,Exceed,EWD,Explore,04/16/81,Jawa,42009,,N/A-StillEmployed,Active,Employee Referral,4.61,5,4,5,43858,0,11
+Hanif Maghfur,10115,Married,Married,F,TKP/ Outsource,Back End Developer,Middle,Average,EWD,AM Performance,05/25/86,Cina,41771,,N/A-StillEmployed,Active,LinkedIn,4.6,5,3,0,43868,0,20
+Hans Christian Saragih,10116,Not married,Single,M,TKP/ Outsource,Front End Developer,Middle,Average,EWD,Delivery & Project Mgt,05/21/79,Bali,41092,,N/A-StillEmployed,Active,LinkedIn,5,5,3,0,43844,0,2
+Hardeni Jumaidi,10117,Married,Married,F,TKP/ Outsource,Back End Developer,Middle,Fully meets,EWD,Evaluate,30540,Jawa,41547,,N/A-StillEmployed,Active,Google Search,4.4,4,5,0,43882,0,1
+Harsa,10118,Not married,Single,F,TKP/ Outsource,Back End Developer,Junior,Average,EWD,Get Support,27282,Padang,41505,,N/A-StillEmployed,Active,LinkedIn,4.1,4,5,0,43876,0,3
+Hasanal Bulkiah,10119,Married,Widowed,M,TKP/ Outsource,Front End Developer,Junior,Exceed,EWD,Get Support & Terminated,29897,Bali,42157,,N/A-StillEmployed,Active,Employee Referral,4.63,5,3,0,43834,0,2
+Hasbi Nur Fadhil,10120,Married,Widowed,F,TKP/ Outsource,Front End Developer,Junior,Average,EWD,Pay,05/21/83,Bali,40595,42380,more money,Voluntarily Terminated,CareerBuilder,5,5,5,0,41793,0,17
+Hazrul Saktio Ramadhana,10121,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Exceed,EWD,Payment - SSOF,06/30/89,Padang,42845,,N/A-StillEmployed,Active,Indeed,4.2,4,5,5,43858,0,8
+Herdis Suryatna,10122,Not married,Single,M,TKP/ Outsource,Front End Developer,Junior,Exceed,HLT,Pre Vaksinasi,25448,Bali,40975,42674,relocation out of area,Voluntarily Terminated,LinkedIn,4.5,5,5,0,41671,0,20
+Hervita Ayu Andini,10123,Not married,Single,F,TKP/ Outsource,Front End Developer,Senior,Special treatment,HLT,Vaksinasi,03/23/77,Jawa,40875,,N/A-StillEmployed,Active,Google Search,4.2,4,4,0,43883,0,13
+Hilman Zakky,10124,Married,Married,M,TKP/ Outsource,Back End Developer,Junior,Average,FIN,Platform,32424,Bali,41589,,N/A-StillEmployed,Active,LinkedIn,5,5,3,0,43838,0,20
+Idham Muhammad Irfani,10125,Married,Widowed,F,TKP/ Outsource,Back End Developer,Middle,Fully meets,EWD,Data & Dashboard Analytics,08/18/52,Padang,40917,43084,retiring,Voluntarily Terminated,CareerBuilder,4.64,5,4,0,42492,0,8
+Ignatius Nicolas Harman,10126,Married,Married,F,TKP/ Outsource,Software Architect,Middle,Exceed,ENT,MyPertamina,27065,Jawa,41771,,N/A-StillEmployed,Active,CareerBuilder,4.76,5,4,0,43876,0,5
+Ikhsan Dwi Murtiyanto,10127,Married,Widowed,M,TKP/ Outsource,Front End Developer,Middle,Exceed,ENT,MyPertamina,30773,Cina,41134,,N/A-StillEmployed,Active,Google Search,4.17,4,4,0,43872,0,1
+Ilham Abdul Malik,10128,Not married,Single,F,TKP/ Outsource,Back End Developer,Junior,Fully meets,EDU,Squad Pijar Sekolah,08/27/72,Jawa,40553,42173,hours,Voluntarily Terminated,CareerBuilder,5,5,3,0,41669,0,15
+Ilham Setiabudi,10129,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Need improvement,VGA,IndiBOX Apps,09/14/88,Padang,41869,,N/A-StillEmployed,Active,Indeed,3.6,4,5,0,43860,0,9
+Inda Novelia,10130,Not married,Single,F,TKP/ Outsource,Back End Developer,Senior,Fully meets,IHL,IndiBOX STB,02/16/84,Bali,40770,41736,relocation out of area,Voluntarily Terminated,Indeed,3.03,3,5,0,41338,0,16
+Indriani Tiosari Sitorus,10131,Married,Married,F,TKP/ Outsource,Mobile Developer Android,Junior,Exceed,FIN,Platform,02/21/84,Padang,42093,,N/A-StillEmployed,Active,Indeed,4.48,4,5,6,43833,0,4
+Iqbal,10132,Married,Married,F,TKP/ Outsource,Mobile Developer Android,Junior,Fully meets,EWD,Core Domain,03/17/66,Padang,41764,,N/A-StillEmployed,Active,LinkedIn,4.5,5,4,0,43851,0,19
+Iqbal Restu Maulana,10133,Married,Widowed,F,TKP/ Outsource,Front End Developer,Senior,Average,EWD,Get Support,09/16/85,Padang,42051,42840,"no-call, no-show",Terminated for Cause,Indeed,3.24,3,3,4,42475,0,6
+Irfan Hafizh Tawakal,10134,Married,Widowed,F,TKP/ Outsource,Back End Developer,Junior,Fully meets,EDU,Squad Pijar Sekolah,31691,Cina,40959,,N/A-StillEmployed,Active,LinkedIn,4.8,5,4,0,43837,0,4
+Irfan Naufal Ridi,10135,Married,Married,F,TKP/ Outsource,Back End Developer,Junior,Exceed,EDU,Squad Service Core,30989,Cina,42527,,N/A-StillEmployed,Active,LinkedIn,3,3,5,0,43848,0,4
+Irham Raziqony,10136,Married,Widowed,F,TKP/ Outsource,Back End Developer,Junior,Average,EDU,Squad Control Tower,33790,Bali,42160,,N/A-StillEmployed,Active,Indeed,4.5,5,3,0,43875,0,6
+Irman Juliansyah,10137,Not married,Single,F,TKP/ Outsource,System Documentation,Middle,Need improvement,EDU,Squad Service Core,09/22/76,Cina,40595,42095,unhappy,Voluntarily Terminated,Google Search,3.72,4,3,0,41671,0,18
+Ismi Dwi Lestari,10138,Not married,Single,M,TKP/ Outsource,Front End Developer,Junior,Need improvement,COM,UMEETME,11/15/76,Bali,40595,41906,unhappy,Voluntarily Terminated,Indeed,2.34,2,2,0,41376,3,4
+Ismi Narti,10139,Not married,Single,F,Prohire,Front End Developer,Senior,Exceed,IHL,IndiHome Smart,01/28/91,Padang,41505,,N/A-StillEmployed,Active,Indeed,3.99,4,3,0,43844,0,14
+Jafar Haritsah,10140,Not married,Single,F,TKP/ Outsource,Back End Developer,Junior,Fully meets,VGA,UseeTV Go,26612,Cina,41218,,N/A-StillEmployed,Active,LinkedIn,4.1,4,3,0,43847,0,7
+Jessica Shopia Alussy,10141,Not married,Single,F,TKP/ Outsource,Mobile Developer Android,Junior,Fully meets,COM,ChatAja,03/22/66,Sunda,41547,,N/A-StillEmployed,Active,Employee Referral,4.3,4,5,0,43883,0,7
+Jonior Prabowo,10142,Not married,Single,F,TKP/ Outsource,Mobile Developer Android,Junior,Exceed,LGT,Logee Truck Apps,31574,Bali,40729,,N/A-StillEmployed,Active,LinkedIn,4.6,5,4,0,43886,0,11
+Karang Reksa,10143,Married,Divorced,F,TKP/ Outsource,Front End Developer,Junior,Need improvement,EWD,Sales Cycle  ,04/13/64,Sunda,41645,,N/A-StillEmployed,Active,LinkedIn,5,5,5,0,43851,0,9
+Karina Emelia,10144,Married,Widowed,M,Prohire,Scrum Master,Junior,Need improvement,COM,Vutura,08/19/59,Jawa,40854,43950,more money,Voluntarily Terminated,CareerBuilder,4.7,5,4,0,43510,0,9
+Kevin Martinda Sodikin,10145,Not married,Single,F,TKP/ Outsource,DevOps Engineer,Middle,Need improvement,COM,Vutura,31604,Bali,42009,,N/A-StillEmployed,Active,Indeed,3.75,4,3,5,43872,0,2
+Khalisa Syahba,10146,Married,Married,F,Prohire,Back End Developer,Senior,Average,IHX,Squad B,25424,Padang,41827,,N/A-StillEmployed,Active,LinkedIn,4.3,4,3,0,43841,0,1
+Khonsa Qurrotul Ain,10147,Not married,Single,F,Prohire,Back End Developer,Junior,Fully meets,IHX,Squad C,04/17/86,Jawa,40553,43191,unhappy,Voluntarily Terminated,CareerBuilder,4,4,4,0,42769,0,4
+Kushal Choudhary,10148,Married,Widowed,F,Prohire,Front End Developer,Middle,Fully meets,EWD,Get Support,32823,Padang,40854,42484,maternity leave - did not return,Voluntarily Terminated,Google Search,4.5,5,5,0,41728,0,2
+Lando Rinov Siahaan,10149,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Need improvement,FIN,Bonum,01/19/76,Cina,41547,,N/A-StillEmployed,Active,Indeed,3.07,3,4,0,43853,0,10
+Lazuardi Firdaus,10150,Not married,Single,M,TKP/ Outsource,Back End Developer,Senior,Average,IHL,IndiHome Smart,11/27/79,Sunda,41505,,N/A-StillEmployed,Active,Indeed,4.3,4,5,0,43852,0,13
+Luluauliayana Sadjugo,10151,Married,Married,F,TKP/ Outsource,Back End Developer,Senior,Average,VGA,UseeTV Go,09/21/54,Padang,41092,,N/A-StillEmployed,Active,Indeed,4.83,5,3,0,43847,0,10
+Luqman Aminullah,10152,Not married,Single,F,TKP/ Outsource,System Documentation,Middle,Fully meets,FIN,Platform,26888,Bali,40812,42890,more money,Voluntarily Terminated,Google Search,3.6,4,5,0,42430,0,16
+M Aidiel Rachman Putra,10153,Married,Divorced,F,TKP/ Outsource,Scrum Master,Junior,Exceed,COM,ChatAja,25790,Padang,40812,42378,more money,Voluntarily Terminated,Google Search,3.49,3,4,0,41669,0,6
+M Fadli Yoga Prawira,10154,Married,Divorced,M,TKP/ Outsource,Front End Developer,Junior,Exceed,COM,UMEETME,28409,Sunda,41687,,N/A-StillEmployed,Active,LinkedIn,3.1,3,3,0,43867,0,3
+M Iqbal,10155,Married,Divorced,M,TKP/ Outsource,Front End Developer,Junior,Special treatment,VGA,Ads Based,29253,Bali,40553,,N/A-StillEmployed,Active,Indeed,3.38,3,3,0,43851,0,17
+M Luthfi Ridhwan,10156,Not married,Single,M,Prohire,Front End Developer,Middle,Exceed,VGA,IndiBOX Apps,02/24/69,Jawa,40609,,N/A-StillEmployed,Active,Diversity Job Fair,3.65,4,5,0,43847,0,20
+M. Abdurrahman Lathief Pratama,10157,Married,Widowed,M,Prohire,Back End Developer,Junior,Fully meets,IHL,IndiHome Music,04/23/86,Sunda,41953,,N/A-StillEmployed,Active,Employee Referral,4.46,4,5,6,43837,0,7
+M. Afsori,10158,Not married,Single,M,Prohire,Back End Developer,Junior,Exceed,VGA,UseeTV Go,26305,Cina,40553,43081,attendance,Terminated for Cause,Employee Referral,4.78,5,4,0,42415,0,9
+M. Bahtiar,10159,Not married,Single,F,Prohire,UI Designer,Junior,Fully meets,EDU,Squad Pijar Corpu,07/25/79,Cina,41281,42460,Another position,Voluntarily Terminated,Indeed,4.52,5,3,0,42055,0,20
+M. Ridwan,10160,Not married,Single,M,TKP/ Outsource,Business Analyst,Middle,Exceed,EDU,Squad Pijar Mahir,31667,Padang,41099,,N/A-StillEmployed,Active,LinkedIn,5,5,5,0,43865,0,13
+M. Sifaun Niam,10161,Not married,Single,M,TKP/ Outsource,Business Analyst,Junior,Special treatment,EWD,Product & Content Management System,04/26/84,Cina,41645,,N/A-StillEmployed,Active,Website,5,5,4,4,43847,0,3
+M.Khairi Usman,10162,Married,Married,M,Prohire,Business Analyst,Junior,Exceed,EWD,Progressive Web App,30930,Sunda,41001,42109,more money,Voluntarily Terminated,Google Search,4.9,5,3,0,41690,0,20
+Magfira Fairuz,10163,Married,Married,F,Prohire,Business Analyst,Junior,Exceed,EWD,Activate & Install,06/14/87,Cina,42645,,N/A-StillEmployed,Active,Indeed,4.1,4,5,7,43838,0,2
+Mahardicka Nurachman,10164,Married,Divorced,F,Prohire,Front End Developer,Junior,Exceed,LGT,Logee Truck Web,01/17/79,Padang,40812,44062,return to school,Voluntarily Terminated,CareerBuilder,4.88,5,3,0,43283,0,17
+Maman Imtiyaz,10165,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Exceed,IHX,Squad B,30961,Sunda,42374,,N/A-StillEmployed,Active,CareerBuilder,4.1,4,4,0,43858,0,20
+Mauliawan Prima Santosa,10166,Married,Married,M,TKP/ Outsource,UX Designer,Junior,Fully meets,VGA,IndiBOX Apps,29991,Sunda,41043,,N/A-StillEmployed,Active,Google Search,4.1,4,3,0,43883,0,10
+Meidiana Aprilliani,10167,Married,Widowed,M,TKP/ Outsource,Front End Developer,Junior,Exceed,VGA,UseeTV Go,12/27/88,Bali,41029,,N/A-StillEmployed,Active,Website,4.53,5,3,0,43859,0,16
+Mesakh,10168,Married,Widowed,F,TKP/ Outsource,Product Owner,Junior,Average,LGT,Logee Truck Apps,10/26/81,Cina,41547,,N/A-StillEmployed,Active,Website,4.1,4,3,0,43851,0,11
+Mochamad Ramdhan,10169,Married,Widowed,F,TKP/ Outsource,Scrum Master,Middle,Special treatment,EDU,Squad Pijar Sekolah,03/26/81,Padang,40729,44100,unhappy,Voluntarily Terminated,Indeed,3.18,3,4,0,43526,0,16
+Moh Anang Nur Aji Pambudi,10170,Married,Married,M,Prohire,UX Researcher,Junior,Fully meets,EDU,Squad Pijar Sekolah,03/19/79,Cina,41463,,N/A-StillEmployed,Active,LinkedIn,4,4,3,0,43879,0,7
+Mohamad Rinaldy,10171,Married,Divorced,F,Prohire,Front End Developer,Middle,Need improvement,EDU,Squad Pijar Sekolah,32273,Bali,40564,,N/A-StillEmployed,Active,Diversity Job Fair,4.64,5,4,5,43855,0,14
+Mohammad Alhafidz Permana Baskoro,10172,Married,Married,F,TKP/ Outsource,Digital Product Manager,Junior,Special treatment,ENT,MyPertamina,12/26/76,Padang,41463,43358,more money,Voluntarily Terminated,LinkedIn,4.65,5,4,0,42896,0,15
+Mohammad Zamal Syahputra,10173,Married,Divorced,F,TKP/ Outsource,Digital Product Manager,Junior,Fully meets,HLT,Pre Vaksinasi,03/28/82,Padang,41505,,N/A-StillEmployed,Active,Indeed,4.2,4,4,0,43873,0,19
+Mohammed Ammad,10174,Not married,Single,F,TKP/ Outsource,UI Designer,Senior,Fully meets,COM,ChatAja,10/22/75,Bali,42051,,N/A-StillEmployed,Active,Website,5,5,3,0,43853,0,6
+Mona Turisna Nasution,10175,Not married,Single,F,TKP/ Outsource,UI Designer,Junior,Average,VGA,UseeTV Go,02/14/73,Cina,40854,43053,Another position,Voluntarily Terminated,Diversity Job Fair,5,5,4,0,42402,0,17
+Muhamad,10176,Married,Married,M,TKP/ Outsource,Back End Developer,Junior,Average,FIN,MPS,26553,Sunda,41176,43734,hours,Voluntarily Terminated,Indeed,3.08,3,4,0,43191,0,18
+Muhamad Hanif Abiyoga,10177,Not married,Single,F,TKP/ Outsource,Back End Developer,Junior,Average,IHX,Squad A,31600,Sunda,41645,,N/A-StillEmployed,Active,LinkedIn,4.6,5,4,0,43887,0,14
+Muhamad Son'ani,10178,Married,Married,F,TKP/ Outsource,Back End Developer,Senior,Exceed,FIN,Platform,08/25/76,Cina,42501,,N/A-StillEmployed,Active,LinkedIn,5,5,3,0,43851,0,4
+Muhamad Syaifurrahman Muhtarom,10179,Not married,Single,F,TKP/ Outsource,Front End Developer,Junior,Exceed,ENT,HunianAja,31697,Cina,40729,41870,Another position,Voluntarily Terminated,LinkedIn,5,5,4,0,41457,0,16
+Muhammad Abdurrahim Suwandi,10180,Not married,Single,F,TKP/ Outsource,Product Owner,Junior,Fully meets,Com,DTP Com,27221,Jawa,41589,,N/A-StillEmployed,Active,LinkedIn,4.1,4,3,0,43852,0,11
+Muhammad Afthon,10181,Married,Divorced,F,Prohire,Product Owner,Middle,Special treatment,COM,UMEETME,31969,Cina,41589,,N/A-StillEmployed,Active,Google Search,4.5,5,5,4,43844,0,14
+Muhammad Agiet Putra,10182,Not married,Single,F,Prohire,Product Owner,Middle,Exceed,EWD,Get Support,11/22/77,Jawa,40694,,N/A-StillEmployed,Active,Indeed,5,5,4,0,43840,0,8
+Muhammad Akmalul Ginan,10183,Married,Widowed,F,TKP/ Outsource,Business Analyst,Junior,Exceed,FIN,GTM,05/21/87,Bali,42093,,N/A-StillEmployed,Active,LinkedIn,5,5,5,0,43868,0,16
+Muhammad Andika Tata,10184,Not married,Single,F,TKP/ Outsource,Business Analyst,Junior,Fully meets,ENT,MyPertamina,31959,Jawa,41281,,N/A-StillEmployed,Active,CareerBuilder,3.93,4,3,0,43860,0,20
+Muhammad Attallah Zhuhry,10185,Married,Married,M,TKP/ Outsource,Product Owner,Middle,Average,FIN,Bonum,30688,Cina,42557,,N/A-StillEmployed,Active,Website,3.4,3,4,0,43859,0,7
+Muhammad Faishal Ramadhan,10186,Married,Divorced,F,TKP/ Outsource,Business Analyst,Junior,Exceed,COM,UMEETME,05/30/68,Jawa,41001,43415,Another position,Voluntarily Terminated,Diversity Job Fair,4.18,4,4,0,42771,0,17
+Muhammad Fauzi,10187,Not married,Single,F,TKP/ Outsource,Business Analyst,Junior,Average,FIN,Inpoin,09/22/76,Padang,42093,,N/A-StillEmployed,Active,CareerBuilder,5,5,4,0,43851,0,10
+Muhammad Febriansyah,10188,Married,Married,M,Karyawan Organik,Business Analyst,Middle,Fully meets,IHX,Squad B,29867,Jawa,41137,,N/A-StillEmployed,Active,Indeed,4.37,4,3,0,43844,0,2
+Muhammad Ilham Rilambang,10189,Not married,Single,M,Karyawan Organik,Product Owner,Junior,Exceed,EWD,Explore,06/29/85,Cina,40770,42617,unhappy,Voluntarily Terminated,LinkedIn,3,3,2,0,41653,6,6
+Muhammad Indrawan,10190,Married,Widowed,M,TKP/ Outsource,Product Owner,Middle,Average,COM,ChatAja,08/17/92,Cina,40854,,N/A-StillEmployed,Active,LinkedIn,3.7,4,3,0,43838,0,14
+Muhammad Jamaludin,10191,Married,Divorced,M,TKP/ Outsource,Product Owner,Junior,Average,COM,OCA,31542,Jawa,40954,,N/A-StillEmployed,Active,Diversity Job Fair,2.39,2,3,6,43883,4,13
+Muhammad Maulana Darrel Monty,10192,Not married,Single,F,TKP/ Outsource,Business Analyst,Junior,Fully meets,FIN,GTM,04/24/70,Padang,41407,,N/A-StillEmployed,Active,Indeed,4.7,5,3,0,43844,0,1
+Muhammad Maulana Hadi,10193,Married,Married,M,TKP/ Outsource,Product Owner,Junior,Fully meets,FIN,GTM,27831,Bali,40917,,N/A-StillEmployed,Active,Diversity Job Fair,4.1,4,4,0,43861,0,12
+Muhammad Misbah Arya Lugina,10194,Married,Divorced,F,TKP/ Outsource,UI Designer,Junior,Average,FIN,Inpoin,28949,Sunda,42051,,N/A-StillEmployed,Active,CareerBuilder,3.81,4,3,6,43872,0,6
+Muhammad Raihan Nismara,10195,Not married,Single,F,TKP/ Outsource,UX Designer,Junior,Average,EDU,Squad Pijar Corpu,30870,Padang,41365,,N/A-StillEmployed,Active,LinkedIn,4.4,4,4,0,43847,0,18
+Muhammad Rajab Priharsanto,10196,Not married,Single,M,TKP/ Outsource,UI Designer,Junior,Average,EDU,Squad Pijar Mahir,27041,Sunda,41407,,N/A-StillEmployed,Active,LinkedIn,4.29,4,5,0,43858,0,11
+Muhammad Risano Akbar,10197,Not married,Single,M,TKP/ Outsource,UX Designer,Junior,Fully meets,EWD,Delivery & Project Mgt,04/18/80,Jawa,41463,,N/A-StillEmployed,Active,LinkedIn,4.1,4,4,0,43852,0,13
+Muhammad Rizki Nofsyiami,10198,Married,Divorced,M,TKP/ Outsource,UI Designer,Junior,Need improvement,EWD,Refactoring New IA,04/25/70,Padang,42776,,N/A-StillEmployed,Active,Indeed,5,5,3,6,43886,0,17
+Muhammad Rizqi Mubarak,10199,Not married,Single,M,TKP/ Outsource,UI Designer,Junior,Exceed,ENT,MyPertamina,32544,Jawa,40812,42464,return to school,Voluntarily Terminated,Diversity Job Fair,4.3,4,3,0,41700,0,19
+Muhammad Rozinul Mahrus,10200,Married,Married,M,TKP/ Outsource,UX Designer,Middle,Average,EDU,Squad Service Core,03/28/83,Bali,41365,43245,more money,Voluntarily Terminated,Employee Referral,3.18,3,3,0,42800,0,10
+Muhammad Sidiq,10201,Married,Widowed,M,TKP/ Outsource,UI Designer,Middle,Average,COM,UMEETME,28341,Bali,41771,,N/A-StillEmployed,Active,LinkedIn,5,5,5,0,43879,0,11
+Nabilla,10202,Married,Widowed,F,TKP/ Outsource,UX Writer,Junior,Fully meets,Com,DTP Com,24537,Sunda,41365,,N/A-StillEmployed,Active,Diversity Job Fair,4,4,3,0,43874,0,12
+Nanda Yusuf,10203,Married,Widowed,F,TKP/ Outsource,UX Designer,Junior,Average,COM,UMEETME,03/31/89,Jawa,41463,,N/A-StillEmployed,Active,Indeed,5,5,5,0,43855,0,2
+Naufal Rasyad,10204,Not married,Single,F,TKP/ Outsource,UX Writer,Junior,Fully meets,EDU,Squad Pijar Corpu,30870,Bali,41463,,N/A-StillEmployed,Active,LinkedIn,3.6,4,5,0,43832,0,4
+Naufal Rizky Pratama,10205,Married,Widowed,F,TKP/ Outsource,Artificial Intelligent,Junior,Average,EDU,Squad Pijar Mahir,11/23/85,Cina,41953,,N/A-StillEmployed,Active,Indeed,4.53,5,5,0,43846,0,5
+Nila Herlina,10206,Not married,Single,F,Prohire,UI Designer,Junior,Exceed,IHX,Squad C,09/30/80,Bali,41729,43952,performance,Terminated for Cause,LinkedIn,2.33,2,2,0,43533,6,3
+Nurisyani,10207,Married,Married,F,Prohire,Back End Developer,Junior,Average,LGT,Logee Truck All Product,19300,Bali,41043,42235,unhappy,Voluntarily Terminated,LinkedIn,5,5,3,0,41822,0,17
+Nurkhasanah,10208,Not married,Single,F,Prohire,Back End Developer,Junior,Need improvement,COM,OCA,33182,Sunda,41547,,N/A-StillEmployed,Active,Indeed,4.28,4,3,0,43855,0,1
+Peni Kurniawati,10209,Not married,Single,M,Prohire,Front End Developer,Junior,Fully meets,FIN,Platform,28076,Padang,41547,,N/A-StillEmployed,Active,LinkedIn,5,5,3,0,43868,0,13
+Prajna Vira,10210,Not married,Single,M,Prohire,Front End Developer,Junior,Fully meets,FIN,Platform,11/24/79,Bali,41687,,N/A-StillEmployed,Active,LinkedIn,4.25,4,3,0,43865,4,6
+Pratama Agung Sumirat,10211,Not married,Single,M,Prohire,Front End Developer,Junior,Exceed,FIN,Platform,05/19/82,Cina,42009,,N/A-StillEmployed,Active,Website,5,5,5,0,43844,0,18
+Prita Normanita,10212,Not married,Single,F,Prohire,Front End Developer,Junior,Average,ENT,MyPertamina,28860,Bali,40581,42381,Another position,Voluntarily Terminated,Google Search,3.89,4,4,0,41702,0,7
+Qaedif Fuadillah,10213,Married,Divorced,M,TKP/ Outsource,Back End Developer,Junior,Special treatment,COM,UMEETME,02/20/79,Jawa,40854,42985,Another position,Voluntarily Terminated,Diversity Job Fair,5,5,5,3,42598,0,13
+Qalfin Qallista Turandy,10214,Married,Divorced,M,TKP/ Outsource,Mobile Developer Android,Middle,Average,EWD,RPA & Profitability,30811,Jawa,41974,43221,performance,Voluntarily Terminated,Employee Referral,4.7,5,4,5,42751,0,19
+R Aditya Prastyawan,10215,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Exceed,EDU,Squad Pijar Mahir,03/17/88,Cina,40553,43827,career change,Voluntarily Terminated,Google Search,3.54,4,5,0,43196,4,15
+R. Abimanyu Sutomo,10216,Married,Divorced,F,TKP/ Outsource,Back End Developer,Senior,Exceed,ENT,HunianAja,07/18/89,Cina,40729,42993,unhappy,Voluntarily Terminated,CareerBuilder,2.4,2,5,0,42406,5,2
+Rachman Teja,10217,Married,Married,F,Karyawan Organik,Back End Developer,Junior,Exceed,LGT,Logee Port (Maintainer),07/20/86,Padang,40679,43033,medical issues,Voluntarily Terminated,LinkedIn,3.45,3,4,0,42137,0,5
+Raden Syamsa Nur Ashari Mahmud,10218,Married,Widowed,F,Karyawan Organik,Front End Developer,Senior,Average,LGT,Logee Truck All Product,08/17/86,Cina,40679,42039,more money,Voluntarily Terminated,Indeed,4.2,4,5,0,41649,0,12
+Rahadian Ardya K,10219,Married,Divorced,F,Prohire,Back End Developer,Middle,Fully meets,EWD,Sales Cycle   ,28373,Padang,40476,43238,Another position,Voluntarily Terminated,Indeed,4.16,4,5,0,42434,0,6
+Rahardian Agung Wardana,10220,Not married,Single,F,Prohire,Mobile Developer Android,Middle,Need improvement,LGT,Logee Port,29131,Bali,41001,,N/A-StillEmployed,Active,LinkedIn,4.3,4,3,0,43844,0,14
+Rahmat Agus Nuryady,10221,Not married,Single,F,TKP/ Outsource,Back End Developer,Middle,Fully meets,HLT,PeduliLindungi,09/16/84,Sunda,41953,,N/A-StillEmployed,Active,Employee Referral,4.6,5,5,7,43834,0,16
+Rahmat Prastyo,10222,Not married,Single,M,TKP/ Outsource,Back End Developer,Middle,Exceed,FIN,Platform,32297,Sunda,40729,41973,more money,Voluntarily Terminated,Google Search,5,5,3,0,41325,0,13
+Rahmat Saefullah,10223,Not married,Single,M,TKP/ Outsource,Back End Developer,Middle,Exceed,COM,UMEETME,11/23/81,Sunda,39391,,N/A-StillEmployed,Active,Google Search,3.66,4,3,0,43886,0,15
+Rani Triani Gustia,10224,Married,Widowed,F,TKP/ Outsource,Back End Developer,Middle,Exceed,COM,UMEETME,08/29/88,Sunda,40917,,N/A-StillEmployed,Active,Website,4.2,4,5,0,43862,0,9
+Rd Muhamad Rahadi Sampurna,10225,Married,Married,F,TKP/ Outsource,Front End Developer,Junior,Average,EDU,Squad Control Tower,10/15/84,Padang,40679,43986,Another position,Voluntarily Terminated,Google Search,3.17,3,4,0,43557,0,14
+Refal Pradama Dahlan,10226,Not married,Single,M,TKP/ Outsource,Back End Developer,Middle,Average,EDU,Squad Pijar Sekolah,06/19/61,Bali,41645,,N/A-StillEmployed,Active,Employee Referral,4.8,5,3,0,43837,0,14
+Rendy Kenan Eliazar,10227,Married,Widowed,F,TKP/ Outsource,Back End Developer,Senior,Average,IHX,Squad B,09/22/70,Jawa,41176,42173,unhappy,Voluntarily Terminated,Indeed,4.5,5,5,0,41731,0,16
+Renita Dewi,10228,Married,Divorced,M,Prohire,Front End Developer,Middle,Fully meets,IHX,Squad C,30844,Jawa,40595,42962,career change,Voluntarily Terminated,Diversity Job Fair,4.15,4,4,0,42113,0,4
+Resskytha Permata Sari,10229,Not married,Single,F,Prohire,Front End Developer,Senior,Average,IHX,Squad D,29560,Padang,42645,,N/A-StillEmployed,Active,Indeed,4.4,4,4,6,43867,0,10
+Reva Histro Wiki Fonseca,10230,Married,Married,M,TKP/ Outsource,Back End Developer,Middle,Fully meets,IHX,Squad A,12/31/84,Padang,40812,43928,more money,Voluntarily Terminated,Indeed,3.8,4,5,0,43500,0,19
+Rheznandya Daffi Pradipta,10231,Not married,Single,M,Prohire,Mobile Developer Android,Middle,Average,EWD,Data & Dashboard Analytics,20068,Jawa,41771,,N/A-StillEmployed,Active,CareerBuilder,3.98,4,3,0,43858,0,4
+Rian Sopiyan,10232,Not married,Single,M,Prohire,System Documentation,Junior,Exceed,EWD,Payment - SSOF,07/22/82,Bali,40679,43115,retiring,Voluntarily Terminated,LinkedIn,5,5,4,0,42459,0,11
+Rivano Dwi Hervan,10233,Married,Widowed,F,TKP/ Outsource,Front End Developer,Middle,Average,FIN,MPS,26999,Jawa,40875,,N/A-StillEmployed,Active,Google Search,4.36,4,5,0,43872,0,16
+Rizal Prasetya Nugraha,10234,Not married,Single,F,TKP/ Outsource,Front End Developer,Junior,Exceed,COM,UMEETME,29715,Padang,40812,41569,return to school,Voluntarily Terminated,Google Search,4.5,5,4,0,41204,0,10
+Rizka Annisa Kurniasari,10235,Married,Widowed,M,TKP/ Outsource,Front End Developer,Junior,Exceed,EDU,Squad Control Tower,26365,Sunda,40729,41678,Another position,Voluntarily Terminated,Indeed,4.2,4,5,0,41280,0,13
+Rizky Febrianto,10236,Married,Married,M,TKP/ Outsource,Front End Developer,Junior,Fully meets,EDU,Squad Pijar Corpu,27211,Jawa,40553,43126,attendance,Voluntarily Terminated,Indeed,5,5,3,0,42379,0,11
+Rizky Ramadhan Subagio,10237,Not married,Single,F,TKP/ Outsource,Front End Developer,Junior,Average,EWD,Explore,31229,Jawa,40553,43237,attendance,Terminated for Cause,Indeed,3.6,4,3,0,42830,4,16
+Rudi Indra Putranto,10238,Not married,Single,M,TKP/ Outsource,Front End Developer,Middle,Fully meets,EWD,Product & Content Management System,01/28/85,Padang,41463,,N/A-StillEmployed,Active,Employee Referral,3.6,4,5,0,43872,0,4
+Ryan Brama,10239,Not married,Single,F,TKP/ Outsource,Back End Developer,Middle,Average,EWD,Progressive Web App,29900,Cina,42051,,N/A-StillEmployed,Active,Employee Referral,3.69,4,5,6,43875,0,15
+Salma Adilah Putri,10240,Married,Married,F,TKP/ Outsource,Back End Developer,Middle,Average,VGA,Ads Based,05/27/73,Cina,42009,44145,Another position,Voluntarily Terminated,LinkedIn,3.88,4,3,7,43509,0,12
+Salma Rizqi Fadhila,10241,Married,Married,F,TKP/ Outsource,Front End Developer,Middle,Exceed,VGA,IndiBOX Apps,11/21/72,Cina,42742,,N/A-StillEmployed,Active,Indeed,4.94,5,3,5,43867,0,17
+Salsabila Nur Fitria,10242,Married,Widowed,F,Prohire,Mobile Developer Android,Middle,Fully meets,VGA,UseeTV Go,27161,Cina,41645,,N/A-StillEmployed,Active,Website,5,5,4,0,43861,0,8
+Samnursanto,10243,Not married,Single,M,TKP/ Outsource,Mobile Developer Android,Middle,Average,ENT,MyPertamina,03/18/87,Sunda,40637,44056,Another position,Voluntarily Terminated,Google Search,5,5,5,0,43648,0,4
+Sarah Mutia Putri,10244,Married,Married,M,Prohire,Back End Developer,Middle,Average,FIN,Bonum,26788,Padang,41294,,N/A-StillEmployed,Active,Indeed,3.6,4,5,7,43879,0,13
+Sayed Muzammil,10245,Not married,Single,M,Prohire,Mobile Developer Android,Middle,Exceed,COM,Vutura,23468,Cina,40917,43043,hours,Voluntarily Terminated,Diversity Job Fair,4.3,4,4,6,42373,0,8
+Setiawan Restu Aji,10246,Married,Widowed,F,Prohire,Mobile Developer Android,Middle,Need improvement,HLT,PeduliLindungi,07/24/86,Bali,41218,,N/A-StillEmployed,Active,Indeed,4.2,4,3,6,43874,0,2
+Shabrina Fitri Ningtyas,10247,Not married,Single,F,Prohire,Mobile Developer iOS,Middle,Fully meets,VGA,IndiBOX Apps,24995,Padang,42555,,N/A-StillEmployed,Active,Diversity Job Fair,2.6,3,4,0,43879,5,4
+Shania Tri Sakanti,10248,Married,Widowed,M,TKP/ Outsource,Back End Developer,Junior,Need improvement,EDU,Squad Pijar Corpu,12/21/74,Cina,39818,44042,relocation out of area,Voluntarily Terminated,Google Search,4.6,5,5,0,43501,0,7
+Shelly Ciptantiani,10249,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Fully meets,EDU,Squad Pijar Mahir,04/26/86,Padang,40420,,N/A-StillEmployed,Active,CareerBuilder,4.1,4,3,0,43840,0,13
+Shepthia Dwina Suwandi,10250,Married,Widowed,M,Prohire,Front End Developer,Junior,Special treatment,EDU,Squad Service Core,12/17/87,Jawa,42009,43039,hours,Voluntarily Terminated,LinkedIn,4.2,4,3,5,42480,0,2
+Slamet Rahayu,10251,Not married,Single,F,Prohire,Back End Developer,Junior,Average,HLT,PeduliLindungi,32423,Jawa,41911,,N/A-StillEmployed,Active,LinkedIn,3.51,4,3,0,43879,0,2
+Sony Kusuma Istri,10252,Not married,Single,F,Prohire,Front End Developer,Junior,Need improvement,HLT,Vaksinasi,27670,Jawa,41547,,N/A-StillEmployed,Active,Google Search,5,5,5,0,43867,0,14
+Sourabh Sharma,10253,Not married,Single,F,Prohire,Front End Developer,Junior,Average,IHX,Squad C,04/14/81,Cina,41912,,N/A-StillEmployed,Active,LinkedIn,3.31,3,3,6,43837,0,7
+Sri Reski Anita Muhsini,10254,Married,Divorced,F,TKP/ Outsource,Back End Developer,Junior,Average,COM,ChatAja,08/24/85,Sunda,41505,,N/A-StillEmployed,Active,LinkedIn,4.81,5,4,0,43876,0,15
+Sulala Rugaya,10255,Married,Widowed,M,TKP/ Outsource,DevOps Engineer,Junior,Fully meets,COM,UMEETME,25782,Sunda,42009,,N/A-StillEmployed,Active,Employee Referral,3.32,3,3,7,43844,0,16
+Syaukat Rafifidhiya Zubaidi,10256,Not married,Single,F,TKP/ Outsource,Front End Developer,Junior,Average,FIN,MPS,05/19/88,Sunda,42125,,N/A-StillEmployed,Active,Website,5,5,3,5,43845,0,2
+Tamie Mauretta,10257,Married,Married,F,TKP/ Outsource,Back End Developer,Junior,Exceed,IHX,Squad B,11/25/87,Cina,40112,42833,maternity leave - did not return,Voluntarily Terminated,CareerBuilder,4.68,5,4,0,42462,0,20
+Thalita Aprilla Rachma Dara,10258,Married,Widowed,M,Prohire,Back End Developer,Junior,Fully meets,IHX,Squad D,10/30/63,Jawa,41911,,N/A-StillEmployed,Active,Indeed,4.3,4,3,0,43858,0,4
+Tri Lika Jayanti Budi Ranti,10259,Not married,Single,M,Prohire,System Documentation,Junior,Exceed,VGA,IndiBOX Apps,08/16/84,Cina,41777,,N/A-StillEmployed,Active,Diversity Job Fair,2.4,2,4,0,43846,2,16
+Try Satria Amanattullah,10260,Married,Divorced,F,Prohire,Front End Developer,Junior,Exceed,ENT,MyPertamina,06/14/87,Padang,40812,42272,career change,Voluntarily Terminated,Diversity Job Fair,3.8,4,4,4,41866,0,17
+Trya Lovenia,10261,Not married,Single,F,Prohire,Back End Developer,Junior,Need improvement,VGA,Ads Based,23775,Bali,41589,,N/A-StillEmployed,Active,Employee Referral,3.73,4,3,0,43854,0,16
+Ulfah Nuraeni,10262,Not married,Single,F,Prohire,Back End Developer,Junior,Average,VGA,UseeTV Go,27001,Jawa,40704,,N/A-StillEmployed,Active,LinkedIn,4.3,4,3,5,43869,0,19
+Vanda Ayu Nintyas,10263,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Exceed,VGA,UseeTV Go,30561,Padang,42551,,N/A-StillEmployed,Active,LinkedIn,3.27,3,4,5,43844,0,13
+Verina Riska,10264,Married,Married,F,TKP/ Outsource,Front End Developer,Senior,Average,COM,ChatAja,07/20/68,Bali,40959,,N/A-StillEmployed,Active,Indeed,2.4,2,2,1,43886,6,20
+Wahyu Widi Purwoko,10265,Married,Divorced,F,TKP/ Outsource,Back End Developer,Senior,Exceed,IHX,Squad A,09/30/75,Padang,41184,,N/A-StillEmployed,Active,LinkedIn,4.83,5,5,0,43875,0,15
+Wawan Agus Hendrayadi,10266,Not married,Single,F,TKP/ Outsource,Back End Developer,Senior,Average,COM,UMEETME,03/26/73,Bali,41407,42915,unhappy,Voluntarily Terminated,LinkedIn,4.1,4,4,0,42431,0,16
+Widayat Tri Raharjo,10267,Married,Divorced,F,TKP/ Outsource,Front End Developer,Junior,Fully meets,ENT,NETMONK,08/25/82,Padang,40553,,N/A-StillEmployed,Active,Google Search,4.1,4,4,0,43868,0,9
+Widdesto Ari Yudistiro,10268,Married,Divorced,M,TKP/ Outsource,Front End Developer,Junior,Average,FIN,Bonum,27277,Jawa,41771,,N/A-StillEmployed,Active,Website,1.81,2,2,0,43847,3,5
+Wina Klarissa Salsabila,10269,Not married,Single,M,TKP/ Outsource,Back End Developer,Senior,Average,COM,ChatAja,31421,Jawa,41911,,N/A-StillEmployed,Active,Indeed,3.9,4,5,5,43848,0,9
+Winda Devita,10270,Not married,Single,M,TKP/ Outsource,Mobile Developer Android,Junior,Average,FIN,Bonum,03/14/85,Bali,41687,,N/A-StillEmployed,Active,LinkedIn,4.7,5,3,0,43841,0,4
+Yanuar Ramadhani Achmadianto,10271,Not married,Single,F,TKP/ Outsource,Back End Developer,Senior,Exceed,IHX,Squad A,32847,Jawa,40448,,N/A-StillEmployed,Active,Indeed,4.1,4,4,0,43861,0,18
+Yehezkiel Dwisandi Sabana,10272,Married,Married,F,Prohire,Mobile Developer Android,Senior,Special treatment,IHX,Squad D,03/28/78,Sunda,39821,,N/A-StillEmployed,Active,Indeed,3.73,4,4,0,43854,0,12
+Yobel Galih Christian Dwiatma,10273,Married,Married,M,TKP/ Outsource,Mobile Developer Android,Senior,Fully meets,EWD,Payment - SSOF,30142,Padang,42009,,N/A-StillEmployed,Active,Google Search,4.36,4,5,0,43854,0,10
+Yoga R Nuraziz,10274,Not married,Single,F,TKP/ Outsource,Back End Developer,Middle,Special treatment,COM,UMEETME,08/15/68,Cina,41043,,N/A-StillEmployed,Active,Indeed,3.4,3,5,0,43861,0,13
+Yogi Prasetya,10275,Married,Divorced,M,Prohire,Back End Developer,Middle,Average,COM,ChatAja,30472,Sunda,41827,,N/A-StillEmployed,Active,LinkedIn,4.5,5,5,5,43879,0,1
+Yohanes Dwiki Kurniawan,10276,Married,Divorced,M,TKP/ Outsource,Back End Developer,Senior,Exceed,Com,DTP Com,10/24/87,Cina,42845,,N/A-StillEmployed,Active,Indeed,3.4,3,3,6,43832,0,14
+Yoyon Syafei,10277,Married,Divorced,F,TKP/ Outsource,Front End Developer,Junior,Need improvement,COM,Vutura,27457,Bali,39930,42095,Another position,Voluntarily Terminated,Diversity Job Fair,4.5,5,5,0,41320,0,11
+Yuda Eka Putra,10278,Married,Widowed,F,TKP/ Outsource,System Documentation,Junior,Special treatment,EWD,Evaluate,05/24/53,Cina,40679,43654,Another position,Voluntarily Terminated,Google Search,3.93,4,3,0,43208,0,3
+Yudhistira Rizky Ananda,10279,Married,Widowed,F,TKP/ Outsource,System Documentation,Middle,Exceed,EWD,Pay,23928,Padang,41911,,N/A-StillEmployed,Active,Indeed,3.69,4,3,0,43858,0,18
+Yudi Suyudiana,10280,Married,Divorced,F,TKP/ Outsource,Back End Developer,Middle,Average,EDU,Squad Pijar Sekolah,23990,Padang,40729,43348,return to school,Voluntarily Terminated,Indeed,3.98,4,4,0,42796,0,1
+Yudi Widiawan,10281,Not married,Single,M,TKP/ Outsource,Back End Developer,Junior,Exceed,EDU,Squad Service Core,09/16/75,Sunda,39258,41151,military,Voluntarily Terminated,Other,4.1,4,4,0,40738,0,15
+Yuni Nuraeni,10282,Married,Widowed,F,TKP/ Outsource,Back End Developer,Junior,Fully meets,EDU,Squad Control Tower,24598,Padang,41323,,N/A-StillEmployed,Active,Indeed,4.21,4,5,0,43844,0,4
+Yusril Firza,10283,Not married,Single,M,TKP/ Outsource,Back End Developer,Middle,Fully meets,EDU,Squad Pijar Corpu,01/15/68,Padang,38726,,N/A-StillEmployed,Active,Indeed,4.1,4,3,0,43834,0,6
+Yusril Iqbal,10284,Married,Widowed,F,TKP/ Outsource,Back End Developer,Junior,Average,LGT,Logee Port,05/16/83,Bali,41687,,N/A-StillEmployed,Active,LinkedIn,2.44,2,5,0,43872,4,18
+Zahrah,10285,Not married,Single,M,TKP/ Outsource,Front End Developer,Junior,Exceed,EDU,Squad Pijar Mahir,32268,Cina,42009,43143,medical issues,Voluntarily Terminated,CareerBuilder,5,5,3,5,42475,0,11
+Zharfan Nugraha Permadi,10286,Married,Married,M,TKP/ Outsource,Back End Developer,Junior,Exceed,EDU,Squad Pijar Mahir,06/14/83,Bali,41323,43936,medical issues,Voluntarily Terminated,Diversity Job Fair,4.6,5,3,4,43143,0,9
+Zia Ulhafidz Aldiansyah,10287,Not married,Single,F,TKP/ Outsource,Front End Developer,Senior,Special treatment,FIN,Platform,03/15/85,Sunda,40553,42553,unhappy,Voluntarily Terminated,LinkedIn,4.4,4,3,0,42009,0,5
